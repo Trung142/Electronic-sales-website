@@ -1,0 +1,79 @@
+.footer__area{
+    --tp-balck:#03041c;
+    --tp-pink:#f50963;
+    --tp-widlth: #e2e2e2;
+    --tp-color2:#525258;
+    width: 100%;
+    padding-top: 20px;
+    .footer__top{
+        width: 100%;
+        .row{
+            .footer__info{
+                h3{
+                    span{
+                        color: #03041c;
+                    }
+                }
+                .footer__social{
+                    .fa-brands:hover{
+                        color: #f50963;
+                        cursor: pointer;
+                    }
+                }
+            }
+            .footer__widget{
+                h3{
+                    color: #03041c;
+                    font-size: 25px;
+                    font-weight: 600;
+                }
+                .footer__widget-content{
+                    margin: 0;
+                    padding: 0;
+                    ul{
+                        padding: 0;
+                    }
+                    li{
+                        list-style: none;
+                        a{
+                            text-decoration: none;
+                            color: #525258;
+                            &:hover{
+                                color: #f50963;
+                            }
+                        }
+                        .link{
+                            color: #f50963;
+                            text-decoration: underline;
+                        }
+                        .phone{
+                            color: #03041c;
+                            font-size: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .footer__button{
+        border-top: 1px solid var(--tp-color2);
+        padding-top: 10px;
+        .row{
+            align-items: center;
+            .item_button{
+                span{
+                    color: #f50963;
+                    text-decoration:underline;
+                    cursor: pointer;
+                }
+            }
+            .m-3{
+                .fa-brands:hover{
+                    color: #f50963;
+                    cursor: pointer;
+                }
+            }
+
+        }
+    }
+}

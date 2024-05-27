@@ -1,0 +1,50 @@
+.banner{
+    background-image: url(../images/banner-1.a1774ed4.jpg);
+    background-position: 50%;
+    background-repeat: repeat;
+    background-size: cover;
+     --tp-balck:#03041c;
+    --tp-pink:#f50963;
+    --tp-widlth: #e2e2e2;
+    --tp-color2:#525258;
+    .banner_area{
+        padding: 100px;
+        .banner__content{
+            span{
+                color: var(--tp-color2);
+                font-size: 14px;
+                font-weight: 400;
+                b{
+                    font-size: 14px;
+                    color: #03041c;
+                }
+            }
+            h3{
+                color: #03041c;
+                font-weight: 700;
+                font-size: 35px;
+                height: inherit;
+                padding-top: 10px;
+                line-height: 1.5;
+            }
+            .banner__item{
+                padding-top: 20px;
+                button{
+                    border: none;
+                    outline: none;
+                    background:var(--tp-balck);
+                    color: #e2e2e2;
+                    padding: 7px 20px;
+                    &:hover{
+                        background-color: #f50963;
+                        transition: 1s;
+                        -webkit-transition: 1s;
+                        -moz-transition: 1s;
+                        -ms-transition: 1s;
+                        -o-transition: 1s;
+                    }
+                }
+            }
+        }
+    }
+}

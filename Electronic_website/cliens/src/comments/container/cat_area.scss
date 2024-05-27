@@ -1,0 +1,40 @@
+.cat_area{
+    background-image: url(../images/cta-bg-1.3e8b3216.jpg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+       --tp-balck:#03041c;
+    --tp-pink:#f50963;
+    --tp-widlth: #e2e2e2;
+    --tp-color2:#525258;
+    .cta_inner-13{
+        background-color: #fff;
+        padding: 60px 70px;
+        .cta__content{
+            h3{
+                color:var(--tp-balck);
+                font-weight: 700;
+            }   
+        }
+        .cta__form{
+            width: 100%;
+            border: 1px solid  var(--tp-balck);
+            padding: 10px 10px;
+            button{
+                border: none;
+                width: 150px;
+                height: 45px;
+                background-color: #03041c;
+                outline: none;
+                color: #fff;
+                font-size: 16px;
+                font-weight: 400;
+            }
+            input{
+                border: none;
+                outline: none;
+                width: 100%;
+            }
+        }
+    }
+}

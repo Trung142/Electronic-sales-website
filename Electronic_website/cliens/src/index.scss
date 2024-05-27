@@ -1,0 +1,24 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --tp-balck: #03041c;
+  --tp-pink: #f50963;
+  --tp-widlth: #e2e2e2;
+  --tp-color2: #525258;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  color: #525258;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26px;
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+}

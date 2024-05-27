@@ -1,0 +1,125 @@
+.shop__area_main {
+	--tp-balck: #03041c;
+	--tp-pink: #f50963;
+	--tp-widlth: #e2e2e2;
+	--tp-color2: #525258;
+	width: 100%;
+	margin: 0;
+	padding-bottom: 50px;
+	.shop__row {
+		padding: 15px 5px;
+		border: 1px solid var(--tp-widlth);
+		align-items: center;
+
+		.item_sort {
+			span {
+				color: var(--tp-color2);
+				font-size: 17px;
+				font-weight: 400;
+			}
+		}
+
+		.list__sort {
+			align-items: center;
+			justify-content: flex-start;
+
+			.left_sort__item {
+				display: flex;
+				align-items: center;
+
+				span {
+					margin-right: 15px;
+
+					i {
+						font-size: 20px;
+						font-weight: 700;
+						color: #525258;
+						&:hover {
+							color: #f50963;
+							cursor: pointer;
+						}
+					}
+					.active {
+						color: #f50963;
+					}
+				}
+			}
+
+			.dropdown {
+				padding: 8px 20px;
+				border: 1px solid var(--tp-widlth);
+
+				a {
+					text-decoration: none;
+					color: #525258;
+
+					span {
+						i {
+							margin-left: 20px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.shop__main {
+		.row {
+			.shop__slidebar {
+				.shop__swipper1 {
+					.accordion-item {
+						button {
+							font-size: 15px;
+							font-weight: 400;
+							&:hover {
+								color: #f50963;
+							}
+						}
+					}
+					.accordion-collapse {
+						ul {
+							li {
+								font-size: 15px;
+								font-weight: 400;
+								&:hover {
+									color: #f50963;
+								}
+							}
+						}
+					}
+				}
+				.shop__swipper {
+					border-bottom: 1px solid #e2e2e2;
+				}
+				.shop__swipper2 {
+					.swipper__item {
+						margin-top: 10px;
+						button {
+							border: none;
+							outline: none;
+							background-color: #f50963;
+							font-size: 14px;
+							font-weight: 500;
+							padding: 10px 45px;
+							color: #fff;
+							&:hover {
+								color: #fff;
+								background-color: #6364db;
+								transition: 0.8s;
+								-webkit-transition: 0.8s;
+								-moz-transition: 0.8s;
+								-ms-transition: 0.8s;
+								-o-transition: 0.8s;
+							}
+						}
+					}
+				}
+			}
+			.product__popular_swiper {
+				width: 100%;
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+		}
+	}
+}

@@ -1,0 +1,36 @@
+.shop__header{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin: 0;
+    box-sizing: border-box;
+    --tp-balck:#03041c;
+    --tp-pink:#f50963;
+    --tp-widlth: #e2e2e2;
+    --tp-color2:#525258;
+    .row{
+        .shop__icon{
+            padding: 5px 0;
+            .shop_list{
+                display: flex;
+                align-items: center;
+                justify-content: flex-start;
+                span{
+                   
+                    margin-right: 5px;
+                    a{ 
+                        font-size: 15px;
+                        font-weight: 350;
+                        line-height: 1.2;
+                        color: #525258;
+                        text-decoration: none;
+                        cursor: pointer;
+                        &:hover{
+                            color: var(--tp-pink);
+                        }
+                    }
+                   
+                }
+            }
+        }
+    }
+}

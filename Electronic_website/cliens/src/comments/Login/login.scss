@@ -1,0 +1,141 @@
+.sign__up {
+    padding-top: 110px;
+    padding-bottom: 110px;
+    margin: 0;
+    box-sizing: border-box;
+    --tp-balck: #03041c;
+    --tp-pink: #f50963;
+    --tp-widlth: #e2e2e2;
+    --tp-color2: #525258;
+
+    .row {
+        justify-content: center;
+        align-items: center;
+
+        .sigup_sweper {
+            padding: 50px 85px 55px;
+            box-shadow: 0 30px 60px rgba(3, 4, 28, .1);
+            text-align: center;
+            background-color: #fff;
+
+            @media(max-width:576px) {
+                padding: 40px 25px 45px;
+            }
+
+            @media (min-width:576px) {
+                padding: 50px 40px 55px;
+            }
+
+            @media(max-width:776px) {
+                padding: 50px 40px 55px;
+            }
+
+            .sigup_top {
+                margin-bottom: 30px;
+
+                .sigup_text {
+                    h3 {
+                        font-size: 30px;
+                        font-weight: 700;
+                        color: #03041c;
+                        font-family: "Space Grotesk", sans-serif;
+                    }
+
+                    span {
+                        color: #525258;
+                    }
+                }
+            }
+
+            .sigup_form {
+                width: 100%;
+                margin-bottom: 10px;
+
+                .sigup_input {
+                    width: 100%;
+
+                    .sigup_item {
+                        margin-bottom: 20px;
+                        width: 100%;
+                        border: 1px solid #e2e2e2;
+
+                        .item {
+                            display: flex;
+                            align-items: center;
+                            position: relative;
+
+                            input {
+                                width: 100%;
+                                height: 60px;
+                                padding-left: 55px;
+                                padding-right: 50px;
+                                border: none;
+                                outline: none;
+                                line-height: 60px;
+                                font-size: 16px;
+                            }
+
+                            .fa_item {
+                                position: absolute;
+                                top: 24px;
+                                left: 20px;
+                            }
+
+                            .fa_item2 {
+                                position: absolute;
+                                top: 24px;
+                                right: 20px;
+                                cursor: pointer;
+                            }
+                        }
+                    }
+
+                    .active1 {
+                        border: 1px solid var(--tp-pink);
+                    }
+                }
+
+                .sigup__btn {
+                    width: 100%;
+
+                    button {
+                        width: 100%;
+                        height: 60px;
+                        font-size: 17px;
+                        font-weight: 700;
+                        color: #fff;
+                        border: none;
+                        outline: none;
+                        background-color: #f50963;
+
+                        &:hover {
+                            background-color: #03041c;
+                            transition: 0.8s;
+                            -webkit-transition: 0.8s;
+                            -moz-transition: 0.8s;
+                            -ms-transition: 0.8s;
+                            -o-transition: 0.8s;
+                        }
+                    }
+                }
+
+                .sigup_footer {
+                    text-align: center;
+                    padding-top: 20px;
+
+                    span {
+                        font-size: 13px;
+
+                        a {
+                            text-decoration: none;
+                            font-size: 15px;
+                            color: #f50963;
+                            font-weight: 500;
+                            cursor: pointer;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

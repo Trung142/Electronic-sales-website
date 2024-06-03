@@ -29,7 +29,7 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://github.com/Trung142/Electronic-sales-website/assets/127677289/b0d03509-2baf-4044-b925-d9c51160bd12"  width="10%"/>
+  <img src="https://github.com/Trung142/Electronic-sales-website/assets/127677289/b0d03509-2baf-4044-b925-d9c51160bd12"  max-width="10%"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>

@@ -56,9 +56,9 @@
   <tr>
     <td>
         <p align="center"> 
-            ![](https://github-readme-stats.vercel.app/api?username=Trung142&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-      ![](https://github-readme-streak-stats.herokuapp.com/?user=Trung142&theme=radical&hide_border=false)<br/>
-      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trung142&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+            <img src="https://github-readme-stats.vercel.app/api?username=Trung142&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="dev" width="100%"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trung142&theme=radical&hide_border=false" alt="dev" width="100%"/><br/>
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trung142&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="dev" width="100%"/>
       </p>
     </td>
     <td>

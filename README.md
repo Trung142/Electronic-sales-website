@@ -1,30 +1,68 @@
-# MULTIPLE-CHOICE-EXAM-APP
+# Electronic-sales-website
 <br/>
 <h2>
-Code C# with Entity Framework Code First , MSSQL 
+Code Node js with Entity Framework React js, Bootstrap,sass
 </h2>
 
-<div > Hệ thống thi trắc nghiệm là một phần mềm cung cấp các câu hỏi trắc nghiệm dành cho các cá nhân, tổ chức có nhu cầu sử dụng, và đây cũng là một hình thức thi được ưa chuộng, phù hợp với thời đại công nghệ phát triển. Vượt trội hơn so với các hình thức thi trắc nghiệm truyền thống là bằng giấy, chấm thủ công mất nhiều thời gian và công sức cũng như công việc quản lý tài liệu khó khăn..vv.
-Trước khi sử dụng phần mềm người dùng phải đăng nhập vào tài khoản đã được người quản trị cấp, tùy thuộc vào phân quyền của tài khoản mà người dùng có các chức năng và nhiệm vụ thích hợp:
-  <p>
-Sinh viên: Là đối tượng sử dụng chính của phần mềm để thi cử, kiểm tra. Thông tin sinh viên được lưu trữ vào hệ thống và phân biệt bằng mã số sinh viên, tên sinh viên, lớp, ngày sinh, giới tính, email và số điện thoại liên lạc.
-Khi đã đăng nhập vào hệ thống, sinh viên có các lựa chọn: Xem thông tin sinh viên ( có thể chỉnh sửa một số thông tin ), luyện thi, thi ( chức năng này chỉ được kích hoạt khi trong thời gian diễn ra kỳ thi ), ngoài ra sinh viên còn có thể xem bảng điểm của bản thân. Để thi sinh viên cần chọn môn thi và yêu cầu nhập đúng mật khẩu của mã đề thi mà người giám thị cung cấp. Trong quá trình thi, sinh viên có thể nhấn chức năng lưu tạm để phòng tránh việc mất dữ liệu bài thi khi xảy ra sai xót. Sau khi thi, sinh viên sẽ được xem điểm thi, biết số câu đúng, sai trong bài làm. Và ký tên xác nhận điểm. </p>
-<p>Giảng viên: Là đối tượng có quyền lập câu hỏi, cũng như chỉnh sửa câu hỏi, ra đề thi. Thông tin giảng viên được lưu trữ vào hệ thống và phân biệt bằng: Mã số giảng viên, họ và tên, chức vụ, khoa/ viện, số điện thoại, email.
-Giảng viên dễ dàng quản lý các câu hỏi, đề thi thông qua hệ thống. Và việc tạo câu hỏi, đề thi sẽ được thực hiện gián tiếp qua Excel.</p>
-<p>Admin: Là người quản trị hệ thống. Có quyền cao nhất, có thể tạo tài khoản khác cũng như việc phân quyền tài khoản cho người dùng.
-Người quản trị (Admin) sẽ có chức năng: quản lý người dùng (Sửa thông tin người dùng, thêm người dùng (phân quyền tài khoản: Giảng viên/sinh viên). Chức năng quản lý hệ thống: Quản lý dữ liệu ( sao lưu, phục hồi dữ liệu ..). Admin có thể tạo kỳ thi và các chức năng quản lý đề thi (thêm, xóa, sửa).</p>
+<div > 
+1. Giới thiệu
+Dự án này tập trung vào việc phát triển một trang web bán hàng trực tuyến với các tính năng quản lý người dùng, sản phẩm, đơn hàng, giỏ hàng và các chức năng cơ bản khác. Dự án được triển khai với một số công nghệ cụ thể như sau:
+
+Frontend:
+
+ReactJS
+Bootstrap
+SCSS
+Tailwind CSS
+Axios (để gọi API)
+Backend:
+
+Node.js
+Express.js
+MySQL
+Sequelize (ORM)
+2. Mục tiêu
+Mục tiêu của dự án là xây dựng một trang web bán hàng hoạt động mượt mà, linh hoạt và dễ sử dụng, cung cấp các chức năng quản lý cơ bản và tính năng mua sắm trực tuyến.
+
+3. Tính năng
+Dự án bao gồm các tính năng sau:
+
+Quản lý người dùng:
+
+Đăng nhập (log in) và đăng xuất (log out)
+Phân quyền
+Quản lý sản phẩm:
+
+Thêm, sửa, xóa sản phẩm
+Phân trang sản phẩm
+Quản lý đơn hàng:
+
+Xem danh sách đơn hàng
+Chi tiết đơn hàng
+Xác nhận đơn hàng đã hoàn thành
+Giỏ hàng:
+
+Thêm sản phẩm vào giỏ hàng
+Xóa sản phẩm khỏi giỏ hàng
+Cập nhật số lượng sản phẩm trong giỏ hàng
+4. Công nghệ và Kiến trúc
+Phía Frontend:
+Sử dụng ReactJS làm framework chính
+Sử dụng Bootstrap, SCSS và Tailwind CSS để tạo giao diện người dùng đẹp và linh hoạt
+Sử dụng Axios để gọi API từ phía backend
+Phía Backend:
+Sử dụng Node.js và Express.js để xây dựng server
+Sử dụng MySQL là cơ sở dữ liệu
+Sử dụng Sequelize làm ORM (Object-Relational Mapping) để tương tác với cơ sở dữ liệu
+5. Mô hình MVC
+Dự án được triển khai theo mô hình MVC (Model-View-Controller) để tách biệt logic dữ liệu, giao diện người dùng và logic điều khiển.
+
+Model: Đại diện cho các đối tượng trong cơ sở dữ liệu, được định nghĩa bằng Sequelize Models.
+View: Đại diện cho giao diện người dùng, được xây dựng bằng ReactJS và các thư viện UI.
+Controller: Điều khiển luồng dữ liệu giữa Model và View, được triển khai bằng các route và các middleware trong Express.js.
+6. Kết Luận
+Dự án đã triển khai thành công một trang web bán hàng trực tuyến với các tính năng quản lý cơ bản. Việc sử dụng ReactJS cho phía frontend và Node.js với Express và MySQL cho phía backend đã mang lại hiệu suất và sự linh hoạt cho dự án.
 </div>
-
-<h3> Use Case Diagram </h3>
-<img src="https://github.com/LuongXuanNhat/MULTIPLE-CHOICE-EXAM-APP/assets/96036623/985fe26e-243b-4431-9cdd-6546b9f6a674" />
-
-<h3> ERD Diagram </h3>
-<img src="https://github.com/LuongXuanNhat/MULTIPLE-CHOICE-EXAM-APP/assets/96036623/5824f977-f4fd-498f-8935-55556d563c78" />
-
-<h3> Database Diagram </h3>
-<img src="https://github.com/LuongXuanNhat/MULTIPLE-CHOICE-EXAM-APP/assets/96036623/e6df153c-dec0-4020-91c4-f2cebe2653e4" />
-
-<h3> Data files : Code first</h3>
 <br>
 -------------------------------------
 <h3>Started</h3> | run command:

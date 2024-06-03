@@ -12,7 +12,9 @@
 <br />
 
 ## 📫 How to reach me:
-
+     ![](https://github-readme-stats.vercel.app/api?username=Trung142&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Trung142&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trung142&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100012113442229) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://youtu.be/Fu7HiHDffD8?si=5-oPWS4-7LT4ny5M) 
 ## 🏆GitHub Trophies

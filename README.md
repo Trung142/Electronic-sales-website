@@ -14,7 +14,7 @@
 <br/>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100012113442229" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.pn" target="_blank" />
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/Trung142" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
@@ -29,11 +29,11 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://github.com/Trung142/Electronic-sales-website/assets/127677289/b0d03509-2baf-4044-b925-d9c51160bd12"  width="100%"/>
+  <img src="https://github.com/Trung142/Electronic-sales-website/assets/127677289/b0d03509-2baf-4044-b925-d9c51160bd12"  width="10%"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+ <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
 

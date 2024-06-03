@@ -12,14 +12,9 @@
 <br />
 
 ## 📫 How to reach me:
-=
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100012113442229) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://youtu.be/Fu7HiHDffD8?si=5-oPWS4-7LT4ny5M) 
-# Welcome! :
-![](https://github-readme-stats.vercel.app/api?username=Trung142&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Trung142&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trung142&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Trung142&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -62,8 +57,9 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+      ![](https://github-readme-stats.vercel.app/api?username=Trung142&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Trung142&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trung142&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
     </td>
     <td>
       <p align="center"> 

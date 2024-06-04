@@ -30,11 +30,11 @@ Dự án bao gồm các tính năng sau:
 Quản lý người dùng:
 
 Đăng nhập (<b>log in</b>) và đăng xuất (<b>log out</b>)
-<div style ={display:'flex'}>
-  <div>
+<div style ={display:'flex',flex-wrap:'wrap'}>
+  <div flex='0 0 5rem'>
      <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_53_14%20PM.png" width='50%'/>
   </div>
-   <div>
+   <div flex='0 0 5rem'>
      <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_53_03%20PM.png"  width='50%' />
   </div>
 </div>

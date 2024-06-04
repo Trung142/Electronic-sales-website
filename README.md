@@ -49,19 +49,24 @@ Thêm, sửa, xóa sản phẩm
   <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_57_04%20PM.png" width='300px'/>
 </div>
 Phân trang sản phẩm
-<img src=""/>
 Quản lý đơn hàng:
 
 Xem danh sách đơn hàng
 <div>
   <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_59_15%20PM.png" width="500px"/>
-  <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_56_55%20PM.png" width='300px'/>
+  <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_56_55%20PM.png" width='500px'/>
 </div>
 Chi tiết đơn hàng
-<img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_56_41%20PM.png" width="500"/>
+<div>
+  <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_56_41%20PM.png" width="500"/>
+</div>
+
 Xác nhận đơn hàng đã hoàn thành
 <br/>
-<img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_57_16%20PM.png" width="500px"/>
+<div>
+  <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_57_16%20PM.png" width="500px"/>
+</div>
+
 Giỏ hàng:
 <br/>
 Thêm sản phẩm vào giỏ hàng
@@ -71,7 +76,9 @@ Xóa sản phẩm khỏi giỏ hàng
 Cập nhật số lượng sản phẩm trong giỏ hàng
 Upload file image
 <br/>
-<img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_54_25%20PM.png" width="500px"/>
+<div>
+  <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_54_25%20PM.png" width="500px"/>
+</div>
 4. Công nghệ và Kiến trúc
 Phía Frontend:
 Sử dụng ReactJS làm framework chính
@@ -81,7 +88,9 @@ Phía Backend:
 Sử dụng Node.js và Express.js để xây dựng server
 Sử dụng MySQL là cơ sở dữ liệu
 Sử dụng Sequelize làm ORM (Object-Relational Mapping) để tương tác với cơ sở dữ liệu
-<img src="https://github.com/Trung142/imagers/blob/master/images/DBeaver%2023.2.0%20-%20manage-salon%2005_06_2024%2012_27_37%20AM.png" width="500px"/>
+<div>
+  <img src="https://github.com/Trung142/imagers/blob/master/images/DBeaver%2023.2.0%20-%20manage-salon%2005_06_2024%2012_27_37%20AM.png" width="500px"/>
+</div>
 5. Mô hình MVC
 Dự án được triển khai theo mô hình MVC (Model-View-Controller) để tách biệt logic dữ liệu, giao diện người dùng và logic điều khiển.
 

@@ -66,6 +66,7 @@ Dự án đã triển khai thành công một trang web bán hàng trực tuyế
 <br>
 -------------------------------------
 <h3>Started</h3> | run command:
+Suocre : <a scr='https://youtu.be/Fu7HiHDffD8?si=V_d-QhiAHxnpVlxy'>Demo</a>
 <h2><strong>update-migration</strong></h2>
 Done! Goodluck
 

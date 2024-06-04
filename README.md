@@ -32,11 +32,9 @@ Quản lý người dùng:
 Đăng nhập (<b>log in</b>) và đăng xuất (<b>log out</b>)
 <div style ={display:'flex'}>
   <div>
-    <span><b>login</b></span>
      <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_53_14%20PM.png" width='50%'/>
   </div>
    <div >
-       <span><b>logout</b></span>
      <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_53_03%20PM.png"  width='50%'/>
   </div>
 </div>
@@ -45,16 +43,28 @@ Phân quyền
 Quản lý sản phẩm:
 
 Thêm, sửa, xóa sản phẩm
+<div>
+  <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_59_29%20PM.png" width='300px'/>
+   <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_59_00%20PM.png" width='300px'/>
+  <img src="" width='300px'/>
+</div>
 Phân trang sản phẩm
+<img src=""/>
 Quản lý đơn hàng:
 
 Xem danh sách đơn hàng
+<img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_59_15%20PM.png"/>
+<img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_56_55%20PM.png" width='300px'/>
 Chi tiết đơn hàng
+<img src=""/>
 Xác nhận đơn hàng đã hoàn thành
+<img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_57_16%20PM.png"/>
 Giỏ hàng:
 
 Thêm sản phẩm vào giỏ hàng
+<img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_56_29%20PM.png"/>
 Xóa sản phẩm khỏi giỏ hàng
+
 Cập nhật số lượng sản phẩm trong giỏ hàng
 4. Công nghệ và Kiến trúc
 Phía Frontend:
@@ -65,6 +75,7 @@ Phía Backend:
 Sử dụng Node.js và Express.js để xây dựng server
 Sử dụng MySQL là cơ sở dữ liệu
 Sử dụng Sequelize làm ORM (Object-Relational Mapping) để tương tác với cơ sở dữ liệu
+<img src="https://github.com/Trung142/imagers/blob/master/images/DBeaver%2023.2.0%20-%20manage-salon%2005_06_2024%2012_27_37%20AM.png"/>
 5. Mô hình MVC
 Dự án được triển khai theo mô hình MVC (Model-View-Controller) để tách biệt logic dữ liệu, giao diện người dùng và logic điều khiển.
 

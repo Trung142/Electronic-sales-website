@@ -53,20 +53,24 @@ Phân trang sản phẩm
 Quản lý đơn hàng:
 
 Xem danh sách đơn hàng
-<img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_59_15%20PM.png" width="500px"/>
-<img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_56_55%20PM.png" width='300px'/>
+<div>
+  <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_59_15%20PM.png" width="500px"/>
+  <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_56_55%20PM.png" width='300px'/>
+</div>
 Chi tiết đơn hàng
-<img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_56_41%20PM.png"/>
+<img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_56_41%20PM.png" width="500"/>
 Xác nhận đơn hàng đã hoàn thành
+<br/>
 <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_57_16%20PM.png" width="500px"/>
 Giỏ hàng:
-
+<br/>
 Thêm sản phẩm vào giỏ hàng
 <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_56_29%20PM.png" width="500px"/>
 Xóa sản phẩm khỏi giỏ hàng
 
 Cập nhật số lượng sản phẩm trong giỏ hàng
 Upload file image
+<br/>
 <img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_54_25%20PM.png" width="500px"/>
 4. Công nghệ và Kiến trúc
 Phía Frontend:

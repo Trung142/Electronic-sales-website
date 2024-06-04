@@ -30,6 +30,7 @@ Dự án bao gồm các tính năng sau:
 Quản lý người dùng:
 
 Đăng nhập (log in) và đăng xuất (log out)
+<img src="https://github.com/Trung142/imagers/blob/master/images/My-shop%20-%20Google%20Chrome%2027_05_2024%207_53_14%20PM.png" />
 Phân quyền
 Quản lý sản phẩm:
 
